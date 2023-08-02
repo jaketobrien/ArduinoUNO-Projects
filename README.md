@@ -7,4 +7,3 @@ This repository contains several Arduino UNO projects that I have undertaken, in
 - LIFO: Add or remove to LIFO buffer, depending on wether SW1 or SW2 is clicked and then print the arrays with the amount of used slots
 - AverageDirection: Take an input of letters and non-alphabetic entities and put only the directional letters from the input into a buffer with a max length of 10. The                      resultant hould then be calculated and printed, along with the hand-side it is pointing, the slope and compass direction
 - BitsToBinary: Run a specific sequence of Binary numbers displayed as LEDs on the BAR LED all for specific amounts of time
-- ClickToMorse: Run a specific sequence of Binary numbers displayed as LEDs on the BAR LED all for specific amounts of time
